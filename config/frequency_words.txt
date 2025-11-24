@@ -1,7 +1,4 @@
 币安
-欧易
-bybit
-bitget
 alpha
 
 美国
@@ -11,3 +8,4 @@ alpha
 
 马斯克
 特朗普
++币
